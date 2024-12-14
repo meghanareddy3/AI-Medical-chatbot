@@ -18,9 +18,3 @@ This project is an AI-driven medical chatbot designed to assist users with sympt
 - **Frontend:** HTML, CSS for building an interactive user interface.  
 - **Additional Libraries:** PyPDF, Transformers, Sentence Transformers for data extraction and embedding generation.  
 
-## Installation  
-
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/your-username/medical-chatbot.git  
-   cd medical-chatbot  
